@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PROGRAMOWANIE\\kursy\\enitity\\WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EEC3465-6EF9-4CAB-82BA-6637D0FCEB38}|..\\WebApp.Database\\WebApp.Database.csproj|e:\\programowanie\\kursy\\enitity\\webapp.database\\enities\\setting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EEC3465-6EF9-4CAB-82BA-6637D0FCEB38}|..\\WebApp.Database\\WebApp.Database.csproj|e:\\programowanie\\kursy\\enitity\\webapp.database\\enities\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EEC3465-6EF9-4CAB-82BA-6637D0FCEB38}|..\\WebApp.Database\\WebApp.Database.csproj|e:\\programowanie\\kursy\\enitity\\webapp.database\\repositories\\settingsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EEC3465-6EF9-4CAB-82BA-6637D0FCEB38}|..\\WebApp.Database\\WebApp.Database.csproj|e:\\programowanie\\kursy\\enitity\\webapp.database\\repositories\\interfaces\\isettingsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE11989F-2094-4920-8B39-F6FC6B1C71DF}|WebApp.csproj|e:\\programowanie\\kursy\\enitity\\webapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE11989F-2094-4920-8B39-F6FC6B1C71DF}|WebApp.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE11989F-2094-4920-8B39-F6FC6B1C71DF}|WebApp.csproj|e:\\programowanie\\kursy\\enitity\\webapp\\mapper\\settingmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE11989F-2094-4920-8B39-F6FC6B1C71DF}|WebApp.csproj|solutionrelative:mapper\\settingmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EEC3465-6EF9-4CAB-82BA-6637D0FCEB38}|..\\WebApp.Database\\WebApp.Database.csproj|e:\\programowanie\\kursy\\enitity\\webapp.database\\repositories\\base\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EEC3465-6EF9-4CAB-82BA-6637D0FCEB38}|..\\WebApp.Database\\WebApp.Database.csproj|e:\\programowanie\\kursy\\enitity\\webapp.database\\settingsdatamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE11989F-2094-4920-8B39-F6FC6B1C71DF}|WebApp.csproj|e:\\programowanie\\kursy\\enitity\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE11989F-2094-4920-8B39-F6FC6B1C71DF}|WebApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 230,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\enitity\\WebApp.Database\\Enities\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "..\\WebApp.Database\\Enities\\ApplicationUser.cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\enitity\\WebApp.Database\\Enities\\ApplicationUser.cs",
+              "RelativeToolTip": "..\\WebApp.Database\\Enities\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:16:17.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SettingsDataModel.cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\enitity\\WebApp.Database\\SettingsDataModel.cs",
+              "RelativeDocumentMoniker": "..\\WebApp.Database\\SettingsDataModel.cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\enitity\\WebApp.Database\\SettingsDataModel.cs",
+              "RelativeToolTip": "..\\WebApp.Database\\SettingsDataModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:37:55.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\enitity\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\enitity\\WebApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:37:21.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SettingMapper.cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\enitity\\WebApp\\Mapper\\SettingMapper.cs",
+              "RelativeDocumentMoniker": "Mapper\\SettingMapper.cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\enitity\\WebApp\\Mapper\\SettingMapper.cs",
+              "RelativeToolTip": "Mapper\\SettingMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:37:19.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Setting.cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\enitity\\WebApp.Database\\Enities\\Setting.cs",
+              "RelativeDocumentMoniker": "..\\WebApp.Database\\Enities\\Setting.cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\enitity\\WebApp.Database\\Enities\\Setting.cs",
+              "RelativeToolTip": "..\\WebApp.Database\\Enities\\Setting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:37:04.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISettingsRepository.cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\enitity\\WebApp.Database\\Repositories\\Interfaces\\ISettingsRepository.cs",
+              "RelativeDocumentMoniker": "..\\WebApp.Database\\Repositories\\Interfaces\\ISettingsRepository.cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\enitity\\WebApp.Database\\Repositories\\Interfaces\\ISettingsRepository.cs",
+              "RelativeToolTip": "..\\WebApp.Database\\Repositories\\Interfaces\\ISettingsRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:30:21.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SettingsRepository.cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\enitity\\WebApp.Database\\Repositories\\SettingsRepository.cs",
+              "RelativeDocumentMoniker": "..\\WebApp.Database\\Repositories\\SettingsRepository.cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\enitity\\WebApp.Database\\Repositories\\SettingsRepository.cs",
+              "RelativeToolTip": "..\\WebApp.Database\\Repositories\\SettingsRepository.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAIwD0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:29:10.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\enitity\\WebApp.Database\\Repositories\\Base\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "..\\WebApp.Database\\Repositories\\Base\\BaseRepository.cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\enitity\\WebApp.Database\\Repositories\\Base\\BaseRepository.cs",
+              "RelativeToolTip": "..\\WebApp.Database\\Repositories\\Base\\BaseRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:28:57.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\kursy\\enitity\\WebApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\kursy\\enitity\\WebApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAD4v1EAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:28:13.087Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+E:\PROGRAMOWANIE\kursy\enitity\WebApp.Database\bin\Debug\net8.0\WebApp.Database.deps.json
+E:\PROGRAMOWANIE\kursy\enitity\WebApp.Database\bin\Debug\net8.0\WebApp.Database.runtimeconfig.json
+E:\PROGRAMOWANIE\kursy\enitity\WebApp.Database\bin\Debug\net8.0\WebApp.Database.dll
+E:\PROGRAMOWANIE\kursy\enitity\WebApp.Database\bin\Debug\net8.0\WebApp.Database.pdb
+E:\PROGRAMOWANIE\kursy\enitity\WebApp.Database\obj\Debug\net8.0\WebApp.Database.csproj.AssemblyReference.cache
+E:\PROGRAMOWANIE\kursy\enitity\WebApp.Database\obj\Debug\net8.0\WebApp.Database.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMOWANIE\kursy\enitity\WebApp.Database\obj\Debug\net8.0\WebApp.Database.AssemblyInfoInputs.cache
+E:\PROGRAMOWANIE\kursy\enitity\WebApp.Database\obj\Debug\net8.0\WebApp.Database.AssemblyInfo.cs
+E:\PROGRAMOWANIE\kursy\enitity\WebApp.Database\obj\Debug\net8.0\WebApp.Database.csproj.CoreCompileInputs.cache
+E:\PROGRAMOWANIE\kursy\enitity\WebApp.Database\obj\Debug\net8.0\WebApp.Database.dll
+E:\PROGRAMOWANIE\kursy\enitity\WebApp.Database\obj\Debug\net8.0\refint\WebApp.Database.dll
+E:\PROGRAMOWANIE\kursy\enitity\WebApp.Database\obj\Debug\net8.0\WebApp.Database.pdb
+E:\PROGRAMOWANIE\kursy\enitity\WebApp.Database\obj\Debug\net8.0\WebApp.Database.genruntimeconfig.cache
+E:\PROGRAMOWANIE\kursy\enitity\WebApp.Database\obj\Debug\net8.0\ref\WebApp.Database.dll
